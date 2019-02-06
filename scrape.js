@@ -27,7 +27,7 @@ const scrape = async () => {
     }
 
     console.log(output);
-    var fs = require('fs');
+    const fs = require('fs');
     fs.writeFile('output.json', JSON.stringify(output), 'utf8', ()=> {});
 
     await browser.close();
