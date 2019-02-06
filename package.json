@@ -1,0 +1,14 @@
+{
+  "name": "etfscraper",
+  "version": "1.0.0",
+  "description": "Scrapes many sources to pull relevant ETF stats. JSON file used as input.",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Haskell",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}

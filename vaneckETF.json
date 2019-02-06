@@ -1,0 +1,408 @@
+[
+    {
+      "target": "https://www.vaneck.com/etf/commodity/ZZZ/overview/",
+      "ticker": "OUNZ",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(4) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "AFK",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "BRF",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "PEK",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "CNXT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "EGPT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "SCIF",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "IDX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "ISRA",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "PLND",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "RSX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "RSXJ",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "VNM",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "BBH",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "EVX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "BJK",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "GNRX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "PPH",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "RTH",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "SMH",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "ESPO",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "MOO",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "KOL",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "GEX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "GDX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "GDXJ",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "HAP",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "CRAK",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "OIH",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "REMX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "SLX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "FRAK",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "NLR",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "GOAT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "MOAT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "MOTI",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(4) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "LFEQ",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/equity/ZZZ/overview/",
+      "ticker": "RAAX",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(3) > div > ul > li:nth-child(4) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "ANGL",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "FLTR",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "CBON",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "EMAG",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "HYEM",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "GRNB",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "IHY",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "YMLI",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(10) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(10) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "YMLP",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "BIZD",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "DURA",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "MORT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "PFXF",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "ITM",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "MLN",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "SMB",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "XMPT",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "HYD",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "PRB",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(6) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(8) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    },
+    {
+      "target": "https://www.vaneck.com/etf/income/ZZZ/overview/",
+      "ticker": "SHYD",
+      "selPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2) > span",
+      "selSharesOut": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(5) > div > ul > li:nth-child(5) > span",
+      "selMarketPrice": "body > div.wrapper > section > section.right_col > div > div:nth-child(7) > div > div:nth-child(7) > div > div > div > div > div > div > div > div > div > table > tbody > tr.light_yellow > td:nth-child(2)"
+    }
+  ]
