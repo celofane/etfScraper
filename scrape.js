@@ -1,7 +1,8 @@
 const puppeteer = require('puppeteer');
+const etfs = require('./vaneckETF.json');
+const fs = require('fs');
 
 const scrape = async () => {
-    const etfs = require('./vaneckETF.json');
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
 
@@ -27,7 +28,6 @@ const scrape = async () => {
     }
 
     console.log(output);
-    const fs = require('fs');
     fs.writeFile('output.json', JSON.stringify(output), 'utf8', ()=> {});
 
     await browser.close();
