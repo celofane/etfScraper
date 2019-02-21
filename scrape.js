@@ -8,7 +8,7 @@ const scrape = async () => {
 
     let output = [];
     for (const etf of etfs) {
-        const target = etf.target.replace('ZZZ', etf.ticker);
+        const target = etf.target;
         console.log(target);
         await page.goto(target);
         const res = await page.evaluate((etf) => {
