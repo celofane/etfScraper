@@ -1,0 +1,1389 @@
+[
+    
+    {
+      "target": "https://www.ishares.com/us/products/239508/",
+      "ticker": "IYF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239509/",
+      "ticker": "IYG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239511/",
+      "ticker": "IYH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239514/",
+      "ticker": "IYJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239503/",
+      "ticker": "IYM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239520/",
+      "ticker": "IYR",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239513/",
+      "ticker": "IYY",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239506/",
+      "ticker": "IYC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239762/",
+      "ticker": "IJK",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239775/",
+      "ticker": "IJS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239773/",
+      "ticker": "IJT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239712/",
+      "ticker": "IWN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239709/",
+      "ticker": "IWO",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239715/",
+      "ticker": "IUSV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239713/",
+      "ticker": "IUSG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239707/",
+      "ticker": "IWB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239482/",
+      "ticker": "ICF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239769/",
+      "ticker": "IGM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239771/",
+      "ticker": "IGV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239536/",
+      "ticker": "FXI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239580/",
+      "ticker": "JKE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239726/",
+      "ticker": "IVV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239684/",
+      "ticker": "EWD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239678/",
+      "ticker": "EWS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239681/",
+      "ticker": "EWY",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239612/",
+      "ticker": "EWZ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239644/",
+      "ticker": "EZU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239674/ishares-msci-pacific-ex-japan-etf",
+      "ticker": "EPP",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239680/",
+      "ticker": "EZA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239688/",
+      "ticker": "THD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239663/",
+      "ticker": "EIS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239618/",
+      "ticker": "ECH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239614/",
+      "ticker": "BKF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239666/",
+      "ticker": "SCJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239689/",
+      "ticker": "TUR",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239693/",
+      "ticker": "EUSA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239740/",
+      "ticker": "ERUS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239537/",
+      "ticker": "EEMS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239855/",
+      "ticker": "SLV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239464/",
+      "ticker": "GVI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239462/",
+      "ticker": "GBF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239826/ishares-us-preferred-stock-etf",
+      "ticker": "PFF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239667/",
+      "ticker": "DSI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239544/",
+      "ticker": "USRT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239545/",
+      "ticker": "REZ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239543/",
+      "ticker": "REM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239565/",
+      "ticker": "HYG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239499/",
+      "ticker": "IDV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239734/",
+      "ticker": "WPS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239735/",
+      "ticker": "EMIF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239606/",
+      "ticker": "EPU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239423/",
+      "ticker": "IGLB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239645/",
+      "ticker": "EUFN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239672/",
+      "ticker": "ENZL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239613/",
+      "ticker": "EWZS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239620/",
+      "ticker": "ECNS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239661/",
+      "ticker": "EIDO",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239675/",
+      "ticker": "EPHE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239662/",
+      "ticker": "EIRL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239676/",
+      "ticker": "EPOL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239450/",
+      "ticker": "STIP",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239619/",
+      "ticker": "MCHI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239563/",
+      "ticker": "HDV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239534/",
+      "ticker": "FLOT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239582/",
+      "ticker": "JKG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239692/",
+      "ticker": "SUSA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239716/",
+      "ticker": "IWC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239628/",
+      "ticker": "EFV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239622/",
+      "ticker": "EFG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239516/",
+      "ticker": "IHI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239517/",
+      "ticker": "IEO",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239518/",
+      "ticker": "IEZ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239510/",
+      "ticker": "IHF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239515/",
+      "ticker": "IAK",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239521/",
+      "ticker": "IAT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239740/",
+      "ticker": "KXI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239537/",
+      "ticker": "IEUS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239539/",
+      "ticker": "IFEU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239540/",
+      "ticker": "IFGL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239766/",
+      "ticker": "MUB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239746/",
+      "ticker": "IGF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239767/",
+      "ticker": "NYF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239731/",
+      "ticker": "CMF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239572/",
+      "ticker": "EMB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239627/",
+      "ticker": "SCZ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239668/",
+      "ticker": "TOK",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239594/",
+      "ticker": "ACWX",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239600/",
+      "ticker": "ACWI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239752/",
+      "ticker": "WOOD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239601/",
+      "ticker": "AAXJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239738/",
+      "ticker": "ICLN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239772/",
+      "ticker": "SUB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239457/",
+      "ticker": "AGZ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239830/",
+      "ticker": "IGOV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239829/",
+      "ticker": "ISHG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239729/",
+      "ticker": "AOA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239733/",
+      "ticker": "AOK",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239756/",
+      "ticker": "AOR",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239765/",
+      "ticker": "AOM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239758/",
+      "ticker": "INDY",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239424/",
+      "ticker": "ILTB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239720/",
+      "ticker": "IWY",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239721/",
+      "ticker": "IWL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239722/",
+      "ticker": "IWX",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/305252/",
+      "ticker": "EAGG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/291387/",
+      "ticker": "DIVB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239586/",
+      "ticker": "JKJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239519/",
+      "ticker": "IHE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/258510/",
+      "ticker": "IBMH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239512/",
+      "ticker": "ITB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239502/",
+      "ticker": "ITA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239730/",
+      "ticker": "AIA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239690/",
+      "ticker": "EWU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/283855/",
+      "ticker": "FALN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/283857/",
+      "ticker": "HYXE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/286007/",
+      "ticker": "ESGU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239626/",
+      "ticker": "EFAV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239695/",
+      "ticker": "USMV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239660/",
+      "ticker": "SMIN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239659/",
+      "ticker": "INDA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239621/",
+      "ticker": "EDEN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239691/",
+      "ticker": "EWUS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239651/",
+      "ticker": "EWGS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239673/",
+      "ticker": "ENOR",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239647/",
+      "ticker": "EFNL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239759/",
+      "ticker": "IPFF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239459/",
+      "ticker": "CMBS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239431/",
+      "ticker": "QLTA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239468/",
+      "ticker": "GOVT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239585/",
+      "ticker": "IYLD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/244051/",
+      "ticker": "ISTB",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/244049/",
+      "ticker": "IEFA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/244048/",
+      "ticker": "IXUS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/251614/",
+      "ticker": "MTUM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/251616/",
+      "ticker": "VLUE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/251465/",
+      "ticker": "SIZE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/256101/",
+      "ticker": "QUAL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/258098/",
+      "ticker": "SLQD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/258100/",
+      "ticker": "SHYG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/259624/",
+      "ticker": "HEWJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/259623/",
+      "ticker": "HEWG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/259622/",
+      "ticker": "HEFA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/258806/",
+      "ticker": "ICSH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264127/",
+      "ticker": "BYLD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/260652/",
+      "ticker": "TFLO",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264619/",
+      "ticker": "IPAC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264613/",
+      "ticker": "JPMV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264611/",
+      "ticker": "EUMV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264617/",
+      "ticker": "IEUR",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264606/",
+      "ticker": "AXJV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264275/",
+      "ticker": "UAE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/264273/",
+      "ticker": "QAT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/268752/",
+      "ticker": "REET",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/268708/",
+      "ticker": "HEZU",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/282961/",
+      "ticker": "IBMM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/294315/",
+      "ticker": "IFRA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/296644/",
+      "ticker": "ESML",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239623/",
+      "ticker": "EFA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239831/",
+      "ticker": "JPXN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239770/",
+      "ticker": "IGN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239768/",
+      "ticker": "IGE",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239761/ishares-latin-america-40-etf",
+      "ticker": "ILF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239751/",
+      "ticker": "IXP",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239750/",
+      "ticker": "IXN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239744/",
+      "ticker": "IXJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239742/",
+      "ticker": "IXG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239717/",
+      "ticker": "IWP",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239719/",
+      "ticker": "IWS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239456/",
+      "ticker": "IEF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+      "ticker": "TLT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239452/",
+      "ticker": "SHY",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf",
+      "ticker": "LQD",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239736/",
+      "ticker": "IEV",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239741/",
+      "ticker": "IXC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/294319/",
+      "ticker": "LQDI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239685/",
+      "ticker": "EWL",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239686/",
+      "ticker": "EWT",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239609/",
+      "ticker": "EWO",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239610/",
+      "ticker": "EWK",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239615/",
+      "ticker": "EWC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239648/",
+      "ticker": "EWQ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239650/",
+      "ticker": "EWG",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239657/",
+      "ticker": "EWH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239664/",
+      "ticker": "EWI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239665/ishares-msci-japan-etf",
+      "ticker": "EWJ",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239670/",
+      "ticker": "EWW",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239671/",
+      "ticker": "EWN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239607/",
+      "ticker": "EWA",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239669/",
+      "ticker": "EWM",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/239683/",
+      "ticker": "EWP",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292415/",
+      "ticker": "IECS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292414/",
+      "ticker": "IEDI",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292421/",
+      "ticker": "IEFN",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292422/",
+      "ticker": "IEHS",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292423/",
+      "ticker": "IEIH",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292424/",
+      "ticker": "IEME",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/292425/",
+      "ticker": "IETC",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    },
+    {
+      "target": "https://www.ishares.com/us/products/293782/",
+      "ticker": "IAUF",
+      "sel-price": "#fundheaderTabs > div > div > ul > li.navAmount > span.header-nav-data",
+      "sel-sharesOut": "#keyFundFacts > div > div.float-left.in-left.col-sharesOutstanding > span.data",
+      "sel-marketPrice": "#keyFundFacts > div > div.float-left.in-left.col-closingPrice > span.data"
+    }
+  ]

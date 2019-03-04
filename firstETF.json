@@ -1,0 +1,612 @@
+[
+    
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FEP",
+      "ticker": "FEP",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FRI",
+      "ticker": "FRI",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FAB",
+      "ticker": "FAB",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FPX",
+      "ticker": "FPX",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=TUSA",
+      "ticker": "TUSA",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FVD",
+      "ticker": "FVD",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FVL",
+      "ticker": "FVL",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FBT",
+      "ticker": "FBT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCTR",
+      "ticker": "FCTR",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=QCLN",
+      "ticker": "QCLN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=QQXT",
+      "ticker": "QQXT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FDN",
+      "ticker": "FDN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCG",
+      "ticker": "FCG",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FAD",
+      "ticker": "FAD",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FNX",
+      "ticker": "FNX",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTA",
+      "ticker": "FTA",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTC",
+      "ticker": "FTC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FIW",
+      "ticker": "FIW",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FAN",
+      "ticker": "FAN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FEX",
+      "ticker": "FEX",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FNI",
+      "ticker": "FNI",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=EDOW",
+      "ticker": "EDOW",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTAG",
+      "ticker": "FTAG",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTRI",
+      "ticker": "FTRI",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXO",
+      "ticker": "FXO",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXG",
+      "ticker": "FXG",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXN",
+      "ticker": "FXN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FGD",
+      "ticker": "FGD",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXR",
+      "ticker": "FXR",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXH",
+      "ticker": "FXH",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXZ",
+      "ticker": "FXZ",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXL",
+      "ticker": "FXL",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXU",
+      "ticker": "FXU",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=SKYY",
+      "ticker": "SKYY",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=CARZ",
+      "ticker": "CARZ",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FXD",
+      "ticker": "FXD",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FJP",
+      "ticker": "FJP",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FEM",
+      "ticker": "FEM",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FKO",
+      "ticker": "FKO",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FDT",
+      "ticker": "FDT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCAN",
+      "ticker": "FCAN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FGM",
+      "ticker": "FGM",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FHK",
+      "ticker": "FHK",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FKU",
+      "ticker": "FKU",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FSZ",
+      "ticker": "FSZ",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=NFTY",
+      "ticker": "NFTY",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCA",
+      "ticker": "FCA",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FBZ",
+      "ticker": "FBZ",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FPA",
+      "ticker": "FPA",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FLN",
+      "ticker": "FLN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FYT",
+      "ticker": "FYT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FYC",
+      "ticker": "FYC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FNK",
+      "ticker": "FNK",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FNY",
+      "ticker": "FNY",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FMK",
+      "ticker": "FMK",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=QABA",
+      "ticker": "QABA",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FDM",
+      "ticker": "FDM",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=QQEW",
+      "ticker": "QQEW",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FYX",
+      "ticker": "FYX",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FCVT",
+      "ticker": "FCVT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=MDIV",
+      "ticker": "MDIV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=TDIV",
+      "ticker": "TDIV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FID",
+      "ticker": "FID",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTHI",
+      "ticker": "FTHI",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTLB",
+      "ticker": "FTLB",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RDVY",
+      "ticker": "RDVY",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FV",
+      "ticker": "FV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=AIRR",
+      "ticker": "AIRR",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=DDIV",
+      "ticker": "DDIV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=IFV",
+      "ticker": "IFV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FVC",
+      "ticker": "FVC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXR",
+      "ticker": "FTXR",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXL",
+      "ticker": "FTXL",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXD",
+      "ticker": "FTXD",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXH",
+      "ticker": "FTXH",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXN",
+      "ticker": "FTXN",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXG",
+      "ticker": "FTXG",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTXO",
+      "ticker": "FTXO",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNDV",
+      "ticker": "RNDV",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNSC",
+      "ticker": "RNSC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNMC",
+      "ticker": "RNMC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNLC",
+      "ticker": "RNLC",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNEM",
+      "ticker": "RNEM",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RNDM",
+      "ticker": "RNDM",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=SDVY",
+      "ticker": "SDVY",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=LEGR",
+      "ticker": "LEGR",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    },
+    {
+      "target": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=ROBT",
+      "ticker": "ROBT",
+      "sel-price": "#FundOverview_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(12) > td.CEFPagesBody",
+      "sel-sharesOut": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(6) > td.CEFPagesBody",
+      "sel-marketPrice": "#CurrentFundData_FundControlContainer_NameValuePairListing > tbody > tr:nth-child(2) > td.CEFPagesBody"
+    }
+  ]

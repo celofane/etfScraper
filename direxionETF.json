@@ -1,0 +1,507 @@
+[
+    
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-gold-miners-bull-3x-etf#",
+      "ticker": "NUGT",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-gold-miners-bull-3x-etf#",
+      "ticker": "DUST",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-junior-gold-miners-bull-3x-etf",
+      "ticker": "JNUG",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-junior-gold-miners-bull-3x-etf",
+      "ticker": "JDST",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-healthcare-bull-3x-etf",
+      "ticker": "CURE",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-homebuilders-supplies-bull-3x-shares",
+      "ticker": "NAIL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-energy-bull-3x-etf",
+      "ticker": "ERX",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-energy-bull-3x-etf",
+      "ticker": "ERY",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-natural-gas-related-bull-3x-etf",
+      "ticker": "GASL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-natural-gas-related-bull-3x-etf",
+      "ticker": "GASX",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-sp-oil-gas-exp-prod-bull-3x-shares",
+      "ticker": "GUSH",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-sp-oil-gas-exp-prod-bull-3x-shares",
+      "ticker": "DRIP",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-real-estate-bull-3x-etf",
+      "ticker": "DRN",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-real-estate-bull-3x-etf",
+      "ticker": "DRV",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-financial-bull-3x-etf",
+      "ticker": "FAS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-financial-bull-3x-etf",
+      "ticker": "FAZ",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-retail-bull-3x-etf",
+      "ticker": "RETL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-regional-banks-bull-3x-shares",
+      "ticker": "DPST",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-regional-banks-bull-3x-shares",
+      "ticker": "WDRW",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-semiconductor-bull-3x-etf",
+      "ticker": "SOXL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-semiconductor-bull-3x-etf",
+      "ticker": "SOXS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-technology-bull-3x-etf",
+      "ticker": "TECL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-technology-bull-3x-etf",
+      "ticker": "TECS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-sp-biotech-bull-3x-shares",
+      "ticker": "LABU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-sp-biotech-bull-3x-shares",
+      "ticker": "LABD",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-aerospace-defense-bull-3x-shares",
+      "ticker": "DFEN",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-industrials-bull-3x-shares",
+      "ticker": "DUSL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-transportation-bull-3x-shares",
+      "ticker": "TPOR",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-utilities-bull-3x-shares",
+      "ticker": "UTSL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/pharmaceutical-medical-bull-3x-etf",
+      "ticker": "PILL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-robotics-artificial-intelligence-automation-index-bull-3x-etf",
+      "ticker": "UBOT",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-7-10-year-treasury-bull-3x-etf",
+      "ticker": "TYD",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-7-10-year-treasury-bull-3x-etf",
+      "ticker": "TYO",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-20-year-treasury-bull-3x-etf",
+      "ticker": "TMF",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-20-year-treasury-bull-3x-etf",
+      "ticker": "TMV",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-brazil-bull-3x-etf",
+      "ticker": "BRZU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-china-bull-3x-etf",
+      "ticker": "YINN",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-china-bull-3x-etf",
+      "ticker": "YANG",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-developed-markets-bull-3x-etf",
+      "ticker": "DZK",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-developed-markets-bull-3x-etf",
+      "ticker": "DPK",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-ftse-europe-bull-3x-etf",
+      "ticker": "EURL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-emerging-markets-bull-3x-etf",
+      "ticker": "EDC",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-emerging-markets-bull-3x-etf",
+      "ticker": "EDZ",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-india-bull-3x-etf",
+      "ticker": "INDL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-japan-bull-3x-etf",
+      "ticker": "JPNL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-latin-america-bull-3x-etf",
+      "ticker": "LBJ",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-russia-bull-3x-etf",
+      "ticker": "RUSL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-russia-bull-3x-etf",
+      "ticker": "RUSS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-south-korea-bull-3x-etf",
+      "ticker": "KORU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-msci-mexico-bull-3x-shares",
+      "ticker": "MEXX",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-euro-stoxx-50-bull-3x-shares",
+      "ticker": "EUXL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-auspice-broad-commodity-strategy-etf",
+      "ticker": "COM",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-all-cap-insider-sentiment-etf",
+      "ticker": "KNOW",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-nasdaq-100-equal-weighted-index-etf",
+      "ticker": "QQQE",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-zacks-mlp-high-income-etf",
+      "ticker": "ZMLP",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-sp-500-bear-1x-shares",
+      "ticker": "SPDN",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-total-bond-market-bear-1x-etf",
+      "ticker": "SAGG",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-7-10-year-treasury-bear-1x-etf",
+      "ticker": "TYNS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-20-year-treasury-bear-1x-etf",
+      "ticker": "TYBS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-csi-300-china-a-share-bear-1x-shares",
+      "ticker": "CHAD",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-sp-500-bull-2x-shares",
+      "ticker": "SPUU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-small-cap-bull-2x-shares",
+      "ticker": "SMLL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-high-yield-bear-2x-shares",
+      "ticker": "HYDD",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-european-financials-bull-2x-shares",
+      "ticker": "EUFL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-csi-300-china-a-share-bull-2x-shares",
+      "ticker": "CHAU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/daily-csi-china-internet-index-bull-2x-shares",
+      "ticker": "CWEB",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-sp-500-bull-3x-etf",
+      "ticker": "SPXL",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-sp-500-bull-3x-etf",
+      "ticker": "SPXS",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-small-cap-bull-3x-etf",
+      "ticker": "TNA",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-small-cap-bull-3x-etf",
+      "ticker": "TZA",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-mid-cap-bull-3x-etf",
+      "ticker": "MIDU",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-0 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(3) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    },
+    {
+      "target": "http://www.direxioninvestments.com/products/direxion-daily-mid-cap-bull-3x-etf",
+      "ticker": "MIDZ",
+      "sel-price": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(1) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span",
+      "sel-sharesOut": "#daily-holdings > div.daily-holdings-modal__content > div > div.ktsys-holdings__container.ks-shareclass-switch-item-1 > p:nth-child(3)",
+      "sel-marketPrice": "#pricing > div.ktsys-widget.ks-fp-shareclass-switch > div:nth-child(4) > div.ktsys-widget__performance__bar__container > ul > li:nth-child(2) > div.ktsys-widget__performance__bar__container.ktsys-widget__performance__bar__container--left > div > ul > li:nth-child(1) > span"
+    }
+  ]

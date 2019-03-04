@@ -1,0 +1,157 @@
+[
+    
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDB",
+      "ticker": "FNDB",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHB",
+      "ticker": "SCHB",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHD",
+      "ticker": "SCHD",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDX",
+      "ticker": "FNDX",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHG",
+      "ticker": "SCHG",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHK",
+      "ticker": "SCHK",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHV",
+      "ticker": "SCHV",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHX",
+      "ticker": "SCHX",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHM",
+      "ticker": "SCHM",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDA",
+      "ticker": "FNDA",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHA",
+      "ticker": "SCHA",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHH",
+      "ticker": "SCHH",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDC",
+      "ticker": "FNDC",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDF",
+      "ticker": "FNDF",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHC",
+      "ticker": "SCHC",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHF",
+      "ticker": "SCHF",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDE",
+      "ticker": "FNDE",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHE",
+      "ticker": "SCHE",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHZ",
+      "ticker": "SCHZ",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHP",
+      "ticker": "SCHP",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHO",
+      "ticker": "SCHO",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    },
+    {
+      "target": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHR",
+      "ticker": "SCHR",
+      "sel-price": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.last-col > table > tbody > tr:nth-child(1) > td",
+      "sel-sharesOut": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(5) > div.col-xs-6.first-col > table > tbody > tr:nth-child(5) > td",
+      "sel-marketPrice": "#com_csim_funds_summary_details > div > div > div > div.clearfix.view-1 > div:nth-child(2) > div > ul > li:nth-child(1) > div.value"
+    }
+  ]

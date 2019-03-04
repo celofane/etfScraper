@@ -1,0 +1,598 @@
+[
+    
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/AUSE",
+      "ticker": "AUSE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/AXJL",
+      "ticker": "AXJL",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/CXSE",
+      "ticker": "CXSE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DDEZ",
+      "ticker": "DDEZ",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DDJP",
+      "ticker": "DDJP",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DDLS",
+      "ticker": "DDLS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DDWM",
+      "ticker": "DDWM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DEM",
+      "ticker": "DEM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DES",
+      "ticker": "DES",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DEW",
+      "ticker": "DEW",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DFE",
+      "ticker": "DFE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DFJ",
+      "ticker": "DFJ",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DGRE",
+      "ticker": "DGRE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DGRS",
+      "ticker": "DGRS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DGRW",
+      "ticker": "DGRW",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DGS",
+      "ticker": "DGS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DHDG",
+      "ticker": "DHDG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DHS",
+      "ticker": "DHS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DIM",
+      "ticker": "DIM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DLN",
+      "ticker": "DLN",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DLS",
+      "ticker": "DLS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DNL",
+      "ticker": "DNL",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DOL",
+      "ticker": "DOL",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DON",
+      "ticker": "DON",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DOO",
+      "ticker": "DOO",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DRW",
+      "ticker": "DRW",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DTD",
+      "ticker": "DTD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DTH",
+      "ticker": "DTH",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DTN",
+      "ticker": "DTN",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DVEM",
+      "ticker": "DVEM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DWM",
+      "ticker": "DWM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DWMF",
+      "ticker": "DWMF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DXGE",
+      "ticker": "DXGE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DXJ",
+      "ticker": "DXJ",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DXJF",
+      "ticker": "DXJF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/DXJS",
+      "ticker": "DXJS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EDOM",
+      "ticker": "EDOM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EES",
+      "ticker": "EES",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EMCG",
+      "ticker": "EMCG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EMMF",
+      "ticker": "EMMF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EPI",
+      "ticker": "EPI",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EPS",
+      "ticker": "EPS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EUDG",
+      "ticker": "EUDG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EUSC",
+      "ticker": "EUSC",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EXT",
+      "ticker": "EXT",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/EZM",
+      "ticker": "EZM",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/GSD",
+      "ticker": "GSD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/GULF",
+      "ticker": "GULF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/HEDJ",
+      "ticker": "HEDJ",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/HGSD",
+      "ticker": "HGSD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/IHDG",
+      "ticker": "IHDG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/IQDG",
+      "ticker": "IQDG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/JHDG",
+      "ticker": "JHDG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/QSY",
+      "ticker": "QSY",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/USMF",
+      "ticker": "USMF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/WCHN",
+      "ticker": "WCHN",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/XMX",
+      "ticker": "XMX",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/equity/XSOE",
+      "ticker": "XSOE",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/AGGY",
+      "ticker": "AGGY",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(6) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/AGND",
+      "ticker": "AGND",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/AGZD",
+      "ticker": "AGZD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/ALD",
+      "ticker": "ALD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/ELD",
+      "ticker": "ELD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/EMCB",
+      "ticker": "EMCB",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/GLBY",
+      "ticker": "GLBY",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/HYND",
+      "ticker": "HYND",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/HYZD",
+      "ticker": "HYZD",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/SFHY",
+      "ticker": "SFHY",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/SFIG",
+      "ticker": "SFIG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/SHAG",
+      "ticker": "SHAG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/USFR",
+      "ticker": "USFR",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/WFHY",
+      "ticker": "WFHY",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/fixed-income/WFIG",
+      "ticker": "WFIG",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/DYB",
+      "ticker": "DYB",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/DYLS",
+      "ticker": "DYLS",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/GCC",
+      "ticker": "GCC",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/PUTW",
+      "ticker": "PUTW",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/RPUT",
+      "ticker": "RPUT",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/alternative/WTMF",
+      "ticker": "WTMF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/asset-allocation/NTSX",
+      "ticker": "NTSX",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/asset-allocation/WBAL",
+      "ticker": "WBAL",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/currency/BZF",
+      "ticker": "BZF",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/currency/CEW",
+      "ticker": "CEW",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/currency/CYB",
+      "ticker": "CYB",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    },
+    {
+      "target": "https://www.wisdomtree.com/etfs/currency/USDU",
+      "ticker": "USDU",
+      "sel-price": "#fund-nav > div.row > div:nth-child(1) > table > tbody > tr.strong > td:nth-child(2) > span",
+      "sel-sharesOut": "#fund-overview > div.row > div:nth-child(1) > table > tbody > tr:nth-child(4) > td:nth-child(2)",
+      "sel-marketPrice": "#fund-nav > div.row > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(2) > span"
+    }
+  ]

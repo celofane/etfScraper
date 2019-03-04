@@ -1,0 +1,472 @@
+[
+    
+    {
+      "target": "https://www.globalxfunds.com/funds/AIQ/",
+      "ticker": "AIQ",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/ALTY/",
+      "ticker": "ALTY",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/ARGT/",
+      "ticker": "ARGT",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/ASEA/",
+      "ticker": "ASEA",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/AUSF/",
+      "ticker": "AUSF",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/BFIT/",
+      "ticker": "BFIT",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/BOSS/",
+      "ticker": "BOSS",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/BOTZ/",
+      "ticker": "BOTZ",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CATH/",
+      "ticker": "CATH",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIC/",
+      "ticker": "CHIC",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIE/",
+      "ticker": "CHIE",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIH/",
+      "ticker": "CHIH",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHII/",
+      "ticker": "CHII",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIK/",
+      "ticker": "CHIK",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIL/",
+      "ticker": "CHIL",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIM/",
+      "ticker": "CHIM",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIQ/",
+      "ticker": "CHIQ",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIR/",
+      "ticker": "CHIR",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIS/",
+      "ticker": "CHIS",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIU/",
+      "ticker": "CHIU",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/CHIX/",
+      "ticker": "CHIX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/COPX/",
+      "ticker": "COPX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/DAX/",
+      "ticker": "DAX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/DIV/",
+      "ticker": "DIV",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/DRIV/",
+      "ticker": "DRIV",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/EBIZ/",
+      "ticker": "EBIZ",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/EFAS/",
+      "ticker": "EFAS",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/EFFE/",
+      "ticker": "EFFE",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/EMFM/",
+      "ticker": "EMFM",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/FINX/",
+      "ticker": "FINX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/GOEX/",
+      "ticker": "GOEX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/GREK/",
+      "ticker": "GREK",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/GURU/",
+      "ticker": "GURU",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/GXF/",
+      "ticker": "GXF",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/GXG/",
+      "ticker": "GXG",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/HSPX/",
+      "ticker": "HSPX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/KRMA/",
+      "ticker": "KRMA",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/LIT/",
+      "ticker": "LIT",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/LNGR/",
+      "ticker": "LNGR",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/MILN/",
+      "ticker": "MILN",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/MLPA/",
+      "ticker": "MLPA",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/MLPX/",
+      "ticker": "MLPX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/NGE/",
+      "ticker": "NGE",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/NORW/",
+      "ticker": "NORW",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/PAK/",
+      "ticker": "PAK",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/PAVE/",
+      "ticker": "PAVE",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/PFFD/",
+      "ticker": "PFFD",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/PGAL/",
+      "ticker": "PGAL",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/QDIV/",
+      "ticker": "QDIV",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/QYLD/",
+      "ticker": "QYLD",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SCID/",
+      "ticker": "SCID",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SCIJ/",
+      "ticker": "SCIJ",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SCIU/",
+      "ticker": "SCIU",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SCIX/",
+      "ticker": "SCIX",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SCTO/",
+      "ticker": "SCTO",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SDEM/",
+      "ticker": "SDEM",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SDIV/",
+      "ticker": "SDIV",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SIL/",
+      "ticker": "SIL",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SNSR/",
+      "ticker": "SNSR",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SOCL/",
+      "ticker": "SOCL",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SOIL/",
+      "ticker": "SOIL",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SPFF/",
+      "ticker": "SPFF",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/SRET/",
+      "ticker": "SRET",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/TFIV/",
+      "ticker": "TFIV",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/TFLT/",
+      "ticker": "TFLT",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/URA/",
+      "ticker": "URA",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    },
+    {
+      "target": "https://www.globalxfunds.com/funds/YLCO/",
+      "ticker": "YLCO",
+      "sel-price": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(2)",
+      "sel-sharesOut": "#fund > section > div.container-fluid > div:nth-child(1) > div.col-md-5.col-lg-4 > div.details > table > tbody > tr:nth-child(10) > td:nth-child(2)",
+      "sel-marketPrice": "#prices > div.post-content > table > tbody > tr:nth-child(1) > td:nth-child(4)"
+    }
+  ]
